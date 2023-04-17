@@ -102,16 +102,16 @@ button:hover{
     transition: transform 0.5s;
 }
 .card1{
-    background-image: url(pic/mat.png);
+    background-image: url(mat.png);
 }
 .card2{
-    background-image: url(pic/mål.png);
+    background-image: url(mål.png);
 }
 .card3{
-    background-image: url(pic/studera.png);
+    background-image: url(studera.png);
 }
 .card4{
-    background-image: url(pic/träning.png);
+    background-image: url(träning.png);
 }
 .card:hover{
     transform: translateY(-10px);
